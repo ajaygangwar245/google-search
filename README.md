@@ -29,7 +29,7 @@ This project is a clone of the Google Search interface, built as part of a web d
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/ajaygangwar245/project01/google-search.git
+   git clone https://github.com/ajaygangwar245/google-search.git
    cd google-search
 2. Open the index.html file in your browser to access the main Google Search page.
 3. Navigate between pages using the links in the upper-right corner.
